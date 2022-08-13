@@ -4,9 +4,7 @@
 
 
 <div align="center">
-  <img src="https://play-lh.googleusercontent.com/S-M80OeU9HSUOZQWKhO3OIQU3VMaspfYcaoLMai5dYKL_xsAoHhWU45EQ7H3eot1NA=w1920-h961-rw" alt="Cellu5G" width='31.5%'/>
-  <img src="https://play-lh.googleusercontent.com/nHM9Ne6Yb7n_7GltdpmN2PoK4Vb7eUrGLsgB_EQXcTuh6aT3P9SK6jEXFTsjXJ_FeA=w1920-h961-rw" alt="Cellu5G" width='30%'/>
-  <img src="https://play-lh.googleusercontent.com/jK0MQ-hlYW9uRxdyurCGV31tp_yXybgCW8jGVWjyrrG8HfKr7BVMCok7MZXr9zPMGLw=w1920-h961-rw" alt="Cellu5G" width='30%'/>
+  <img src="https://alonilk2.github.io/map1/torgate-capture.png" alt="Cellu5G" width='100%'/>
 
 </div>
 
