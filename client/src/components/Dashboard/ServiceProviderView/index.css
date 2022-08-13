@@ -1,0 +1,22 @@
+.upcoming {
+  width: 48% !important;
+}
+
+.MuiTypography-root {
+  margin-bottom: 0 !important;
+}
+
+.data-widget {
+  width: 31.3%;
+  max-height: 180px;
+  background-color: #2265f5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  color: white;
+  font-weight: 600;
+  font-size: 28px;
+  padding: 3%;
+  position: relative;
+}
